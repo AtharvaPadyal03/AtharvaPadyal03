@@ -1,12 +1,12 @@
 # Hi there, I'm Atharva! 👋
 
 <p align="left">
-  I'm a final-year Computer Engineering student at <strong>JSPM's Rajarshi Shahu College of Engineering (RSCOE)</strong> in Pune. 🎓 <br/><br/>
-  I love to solve complex problems 🧠 and create awesome websites 🚀. <br/><br/>
-  Currently, I am working on exciting projects using the MERN tech stack.
+  ✨I'm a final-year Computer Engineering student at <strong>JSPM's Rajarshi Shahu College of Engineering (RSCOE)</strong> in Pune. 🎓 <br/><br/>
+  ✨I love to solve complex problems 🧠 and create awesome websites 🚀. <br/><br/>
+  ✨Currently, I am working on exciting projects using the MERN tech stack.
 </p>
 
-&nbsp;
+
 # 🤝 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/atharvapadyal/" target="_blank">
