@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Atharva! 👋
 
-<!--
-**AtharvaPadyal03/AtharvaPadyal03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  I'm a final-year Computer Engineering student at <strong>JSPM's Rajarshi Shahu College of Engineering (RSCOE)</strong> in Pune. 🎓 <br/><br/>
+  I love to solve complex problems 🧠 and create awesome websites 🚀. <br/><br/>
+  Currently, I am working on exciting projects using the MERN tech stack.
+</p>
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+</p>
